@@ -1,0 +1,3 @@
+When I push before committing...
+
+![](http://i.imgur.com/DM1m0U2.gif)
